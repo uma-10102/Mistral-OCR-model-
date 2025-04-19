@@ -37,7 +37,7 @@ from dotenv import load_dotenv
 import os
 #load_dotenv()
 #PDF_PATH = r"C:\\Users\\myhom\\OneDrive\\Documents\\uma research main paper - Copy.pdf"#
-MISTRAL_API_KEY = "OHKrC2UQWOMRiXiyLNGW08HpzrJRbR9u"
+MISTRAL_API_KEY = "....."
 #api_key = userdata.get("MISTRAL_API_KEY")
 
 print(MISTRAL_API_KEY)
